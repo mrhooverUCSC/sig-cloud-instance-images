@@ -1,0 +1,6 @@
+Edited tarball by Matthew Hoover for SLAC 2021
+
+To access the deprecated repositories from original CentOS-6,
+the <CentOS-Base.repo> file in /etc/yum.repos.d/ has been
+changed, commenting out the original mirrors for the new
+locations of the files.

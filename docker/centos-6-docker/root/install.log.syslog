@@ -1,0 +1,22 @@
+<86>Aug  4 22:13:03 groupadd[1186]: group added to /etc/group: name=utmp, GID=22
+<86>Aug  4 22:13:03 groupadd[1186]: group added to /etc/gshadow: name=utmp
+<86>Aug  4 22:13:03 groupadd[1186]: new group: name=utmp, GID=22
+<86>Aug  4 22:13:03 groupadd[1190]: group added to /etc/group: name=utempter, GID=35
+<86>Aug  4 22:13:03 groupadd[1190]: group added to /etc/gshadow: name=utempter
+<86>Aug  4 22:13:03 groupadd[1190]: new group: name=utempter, GID=35
+<86>Aug  4 22:13:03 groupadd[1197]: group added to /etc/group: name=floppy, GID=19
+<86>Aug  4 22:13:03 groupadd[1197]: group added to /etc/gshadow: name=floppy
+<86>Aug  4 22:13:03 groupadd[1197]: new group: name=floppy, GID=19
+<86>Aug  4 22:13:03 groupadd[1202]: group added to /etc/group: name=vcsa, GID=69
+<86>Aug  4 22:13:03 groupadd[1202]: group added to /etc/gshadow: name=vcsa
+<86>Aug  4 22:13:03 groupadd[1202]: new group: name=vcsa, GID=69
+<86>Aug  4 22:13:03 useradd[1207]: new user: name=vcsa, UID=69, GID=69, home=/dev, shell=/sbin/nologin
+<86>Aug  4 22:13:13 groupadd[1263]: group added to /etc/group: name=cdrom, GID=11
+<86>Aug  4 22:13:13 groupadd[1263]: group added to /etc/gshadow: name=cdrom
+<86>Aug  4 22:13:13 groupadd[1263]: new group: name=cdrom, GID=11
+<86>Aug  4 22:13:13 groupadd[1268]: group added to /etc/group: name=tape, GID=33
+<86>Aug  4 22:13:13 groupadd[1268]: group added to /etc/gshadow: name=tape
+<86>Aug  4 22:13:13 groupadd[1268]: new group: name=tape, GID=33
+<86>Aug  4 22:13:13 groupadd[1273]: group added to /etc/group: name=dialout, GID=18
+<86>Aug  4 22:13:13 groupadd[1273]: group added to /etc/gshadow: name=dialout
+<86>Aug  4 22:13:13 groupadd[1273]: new group: name=dialout, GID=18

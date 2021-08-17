@@ -1,0 +1,5 @@
+/dev/sda1 / ext4 rw 0 0
+devpts /dev/pts devpts rw 0 0
+tmpfs /dev/shm tmpfs rw 0 0
+proc /proc proc rw 0 0
+sysfs /sys sysfs rw 0 0
